@@ -54,3 +54,5 @@
 ![Sequence diagram image](https://github.com/syakirahjf/hrms/blob/main/resources/HRMS%20Seq%20Diagram.jpg)
 
 <br>
+
+### 7. References
