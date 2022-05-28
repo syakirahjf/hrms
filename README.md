@@ -1,4 +1,6 @@
-# hrms
+# Final Project-Group 2
+
+<br>
 
 ### 6. Sequence Diagram
 
