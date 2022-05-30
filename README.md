@@ -41,11 +41,11 @@
 
 <br>
 
-### 5. ERD Diagram
+### 5. ER Diagram
 
 <br>
 <img src="https://github.com/syakirahjf/hrms/blob/main/resources/ERD.png?raw=true">
-<br>
+
 ### 6. Sequence Diagram
 
 <br>
