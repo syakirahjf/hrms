@@ -44,7 +44,7 @@
 ### 5. ERD Diagram
 
 <br>
-![ER Diagram image](https://github.com/syakirahjf/hrms/blob/main/resources/ERD.png)
+<img src="https://github.com/syakirahjf/hrms/blob/main/resources/ERD.png?raw=true">
 <br>
 ### 6. Sequence Diagram
 
