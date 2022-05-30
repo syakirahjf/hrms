@@ -92,7 +92,7 @@
 ### 5. ER Diagram
 
 <br>
-<img src="https://github.com/syakirahjf/hrms/blob/main/resources/ERD.png?raw=true">
+<img src="https://github.com/syakirahjf/hrms/blob/main/resources/ERDiagram.png?raw=true">
 
 ### 6. Sequence Diagram
 
