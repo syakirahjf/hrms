@@ -97,7 +97,7 @@
 <ol type="1">
 	<li>Entities – represent in the pattern of a rectangle with the name entity set.</li>
 	<li>Attributes – the properties of entities represented by ellipses. Each ellipse represents a single attribute and is linked to its corresponding entity.</li>
-	<li>Relationship - represent a diamond-shaped box. The line connects all of the entities associated with the relationship. The following are the various types of entity relationships:</li>
+	<li>Relationship - represent a diamond-shaped box. The line connects all of the entities associated with the relationship. The following are the types of entity relationships:</li>
 	<ul>
 		<li>One-to-one</li>
 		<li>One-to-many</li>
