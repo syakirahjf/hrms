@@ -59,7 +59,7 @@
 ### 7. Mock-Up
 <br>
 <a href="https://hrms.my.canva.site/">Mockup Link</a>
-<br>
+
 ### 8. References
 <li> https://github.com/akashdeepnandi/Employee-Management-System-in-Laravel </li>
 <li> https://code.visualstudio.com/docs/languages/markdown </li>
