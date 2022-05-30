@@ -89,7 +89,7 @@
   <li> Authentication </li>
 </ol>
 
-### 5. ER Diagram
+### 5. Entity Relationship Diagram
 
 <br>
 <img src="https://github.com/syakirahjf/hrms/blob/main/resources/ERDiagram.png?raw=true">
