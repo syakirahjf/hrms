@@ -38,37 +38,48 @@
 ### 4. Views, Controllers, Routes and Models
 
 <li> Views </li> 
-<br>
-<ol> </ol>
+<ol> 
+  <li> </li>
+  <li> </li> 
+</ol>
 <br> 
 
 <li> Controllers </li> 
-<br>
 <ol> 
   <li> EmployeeController </li>
+      >
   <li> HR_Controller </li>
+      >
   <li> DepartmentController </li>
+      >
   <li> LeaveController </li>
+      >
   <li> AuthenController </li> 
+      >
 </ol>
 <br>
 
 <li> Routes </li>
-<br>
 <ol> 
   <li> route/web.php </li> 
+      >
   <li> route/api.php </li>
+      >
 </ol>
 <br>
 
 <li> Models </li>
-<br>
 <ol> 
   <li> Employee </li>
+      >
   <li> HR </li>
+      >
   <li> Department </li>
+      >
   <li> Leave </li>
+      >
   <li> Authentication </li>
+      >
 </ol>
 
 ### 5. ER Diagram
