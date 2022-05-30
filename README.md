@@ -39,8 +39,11 @@
 
 <li> Views </li> 
 <ol> 
-  <li> </li>
-  <li> </li> 
+  <li> Login Page </li>
+  <li> Homepage </li>
+  <li> ManageLeaveApplication Page </li>
+  <li> ApplyLeaveApplication Page </li>
+  <li> ViewLeaveApplication Page </li>
 </ol>
 <br> 
 
