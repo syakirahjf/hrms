@@ -1,4 +1,4 @@
-# Final Project-Group 2
+# Final Project Proposal-Group 2
 
 ## Group Members
 - Muhammad Amirul Bin Mohd Ali - 1914119
