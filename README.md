@@ -44,7 +44,8 @@
 ### 5. ERD Diagram
 
 <br>
-
+![ER Diagram image](https://github.com/syakirahjf/hrms/blob/main/resources/ERD.png)
+<br>
 ### 6. Sequence Diagram
 
 <br>
@@ -55,10 +56,10 @@
 
 <br>
 
-### 8. Mock-Up
-
+### 7. Mock-Up
+<br>
 <a href="https://hrms.my.canva.site/">Mockup Link</a>
-
+<br>
 ### 8. References
 <li> https://github.com/akashdeepnandi/Employee-Management-System-in-Laravel </li>
 <li> https://code.visualstudio.com/docs/languages/markdown </li>
