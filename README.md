@@ -44,25 +44,32 @@
 
 <li> Controllers </li> 
 <br>
-<ol> EmployeeController </ol>
-<ol> HR_Controller </ol>
-<ol> DepartmentController </ol>
-<ol> LeaveController </ol>
-<ol> AuthenController </ol> 
+<ol> 
+  <li> EmployeeController </li>
+  <li> HR_Controller </li>
+  <li> DepartmentController </li>
+  <li> LeaveController </li>
+  <li> AuthenController </li> 
+</ol>
 <br>
 
 <li> Routes </li>
 <br>
-<ol> route/web.php </ol> 
-<ol> route/api.php </ol>
+<ol> 
+  <li> route/web.php </li> 
+  <li> route/api.php </li>
+</ol>
 <br>
 
 <li> Models </li>
-<ol> Employee </ol>
-<ol> HR </ol>
-<ol> Department </ol>
-<ol> Leave </ol>
-<ol> Authentication </ol>
+<br>
+<ol> 
+  <li> Employee </li>
+  <li> HR </li>
+  <li> Department </li>
+  <li> Leave </li>
+  <li> Authentication </li>
+</ol>
 
 ### 5. ER Diagram
 
