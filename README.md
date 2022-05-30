@@ -106,8 +106,6 @@
 	</ul>
 </ol>  
 
-<br>
-
 >The figure below depicts the Entity Relationship Diagram (ERD) for the Company E-Leave Management System, which involves the entities Authentication, HR, Employee, Department, and Leave.
 
 <img src="https://github.com/syakirahjf/hrms/blob/main/resources/ERDiagram.png?raw=true">
