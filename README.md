@@ -131,7 +131,7 @@ Company E-Leave Management System is a system where an employee in the company c
 
 >Below is the sequence diagram for the proposed web application that generally describes the interactions between the users and the application.
 
-![Sequence diagram image](https://github.com/syakirahjf/hrms/blob/main/resources/HRSM%20Seq%20Diagram.png)
+![Sequence diagram image](https://github.com/syakirahjf/hrms/blob/main/resources/Seq%20Diagram.png)
 
 <br>
 
