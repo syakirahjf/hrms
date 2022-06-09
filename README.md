@@ -32,21 +32,21 @@ Company E-Leave Management System is a system where an employee in the company c
 
 - Human Resource
   - Lookup leave application list
-  - Accept/decline application
   - Edit employee info
 - Employee
   - Apply leave
   - Edit leave application
-  - Cancel leave application
+  - View employee profile
+  - View leave application
 - Department
    - View Report
+   - View Staff Attendance
 - Authentication
    - Login Employee
    - Login Human Resource
 - Leave
-  - Type of Leave
-  - Date apply
-  - End date
+  - Application Form
+  - Accept/decline application
 
 <br>
 
