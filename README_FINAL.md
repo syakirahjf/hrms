@@ -28,7 +28,9 @@ Company E-Leave Management System is a system where an employee in the company c
 <br>
 
 ### 3. Features & Functionalities
+- Allows multi authentication.
 - Allows HR admin to view list of leave applications.
 - Allows HR admin to modify application status from pending to approved or declined and undo the action.
 - Allows HR admin to delete leave applications.
 - Allows HR admin to add, edit and delete staff information.
+- Allows Employee to view profile
