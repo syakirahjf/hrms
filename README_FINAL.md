@@ -82,6 +82,23 @@ Company E-Leave Management System is a system where an employee in the company c
 
 <br>
 
+>Entity Relationship Diagram (ERD) is a diagram that depicts the relationship between entities in a database. ERD is built on three fundamental concepts:
+<ol type="1">
+	<li>Entities – represent in the pattern of a rectangle with the name entity set.</li>
+	<li>Attributes – the properties of entities represented by ellipses. Each ellipse represents a single attribute and is linked to its corresponding entity.</li>
+	<li>Relationship - represent a diamond-shaped box. The line connects all of the entities associated with the relationship. The following are the types of entity relationships:</li>
+	<ul>
+		<li>One-to-one</li>
+		<li>One-to-many</li>
+		<li>Many-to-one</li>
+		<li>Many-to-many</li>
+	</ul>
+</ol>  
+
+>The figure below depicts the Entity Relationship Diagram (ERD) for the Company E-Leave Management System, which involves the entities Authentication, HR, Employee, Department, and Leave.
+
+<img src="https://github.com/syakirahjf/hrms/blob/main/resources/ERD.png?raw=true">
+
 ### 6. Sequence Diagram
 
 <br>
