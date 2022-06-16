@@ -47,8 +47,12 @@ Company E-Leave Management System is a system where an employee in the company c
     - ShowAppList.blade.php
     - ShowLeaveApp.blade.php
 
+<br>
+
 2. CONTROLLERS
   - LeaveController.php
+
+<br>
 
 3. MODELS:
   - Leave
