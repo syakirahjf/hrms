@@ -72,3 +72,8 @@ Company E-Leave Management System is a system where an employee in the company c
 ![Sequence diagram image](https://github.com/syakirahjf/hrms/blob/main/resources/Seq%20Diagram.png)
 
 <br>
+
+### 7. Mockup
+<br>
+<a href="https://hrms.my.canva.site/">Mockup Link</a>
+<br>
