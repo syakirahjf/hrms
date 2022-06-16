@@ -58,7 +58,10 @@ Company E-Leave Management System is a system where an employee in the company c
 
 <br>
 
-3. MODELS:
+3. Routes
+  - web.php
+
+4. MODELS:
   - Leave
   - Department
   - Employee
