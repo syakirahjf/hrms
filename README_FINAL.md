@@ -113,3 +113,9 @@ Company E-Leave Management System is a system where an employee in the company c
 <br>
 <a href="https://hrms.my.canva.site/">Mockup Link</a>
 <br>
+
+### 8. References
+<li> https://github.com/akashdeepnandi/Employee-Management-System-in-Laravel </li>
+<li> https://code.visualstudio.com/docs/languages/markdown </li>
+<li> https://github.com/NaveenKumarK219/leave-management-system/blob/master/README.md </li>
+<li> https://www.surfsidemedia.in/post/laravel-8-e-commerce-admin-and-user-authentication </li>
