@@ -51,11 +51,18 @@ Company E-Leave Management System is a system where an employee in the company c
 
 2. CONTROLLERS
   - LeaveController.php
+  - DepartmentController.php
+  - EmployeeController.php
+  - HomeController.php
+  - MasterController.php
 
 <br>
 
 3. MODELS:
   - Leave
+  - Department
+  - Employee
+  - User
 
 <br>
 
