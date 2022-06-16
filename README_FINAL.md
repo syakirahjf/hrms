@@ -42,6 +42,10 @@ Company E-Leave Management System is a system where an employee in the company c
   - Master:
     - layout.blade.php
     - messages.blade.php
+  
+  - Dashboard:
+    - dashboardAdmin.blade.php
+    - dashboardEmployee.blade.php
 
   - Leave Applications:
     - ShowAppList.blade.php
@@ -55,6 +59,7 @@ Company E-Leave Management System is a system where an employee in the company c
   - EmployeeController.php
   - HomeController.php
   - MasterController.php
+  - Default authentication controllers
 
 <br>
 
