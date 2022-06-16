@@ -39,9 +39,11 @@ Company E-Leave Management System is a system where an employee in the company c
 
 ### 4. Views, Controllers, Routes and Models
 1. VIEWS
-  - Master:
-    - layout.blade.php
+  - Layout:
+    - master.blade.php
     - messages.blade.php
+    - app.blade.php
+    - employee.blade.php
   
   - Dashboard:
     - dashboardAdmin.blade.php
