@@ -37,6 +37,14 @@ Company E-Leave Management System is a system where an employee in the company c
 
 <br>
 
+### 4. Views, Controllers, Routes and Models
+
+<br>
+
+### 5. Entity Relationship Diagram (ERD)
+
+<br>
+
 ### 6. Sequence Diagram
 
 <br>
