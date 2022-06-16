@@ -34,3 +34,15 @@ Company E-Leave Management System is a system where an employee in the company c
 - Allows HR admin to delete leave applications.
 - Allows HR admin to add, edit and delete staff information.
 - Allows Employee to view profile
+
+<br>
+
+### 6. Sequence Diagram
+
+<br>
+
+>Below is the sequence diagram for the proposed web application that generally describes the interactions between the users and the application.
+
+![Sequence diagram image](https://github.com/syakirahjf/hrms/blob/main/resources/Seq%20Diagram.png)
+
+<br>
